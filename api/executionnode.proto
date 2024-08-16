@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package executionnode;
+
+option go_package = "DistributeX/api/executionnodepb";
+
+service ExecutionNode {
+  rpc ExecuteTask (TaskRequest) returns (TaskResponse);
+}
+
+message TaskRequest {
+  string task_id = 1;
+  string payload = 2;
+}
+
+message TaskResponse {
+  string status = 1;
+}

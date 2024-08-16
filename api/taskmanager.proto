@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package taskmanager;
+
+option go_package = "DistributeX/api/taskmanagerpb";
+
+service TaskManager {
+  rpc SendTask (TaskRequest) returns (TaskResponse);
+  rpc NodeHeartbeat (HeartbeatRequest) returns (HeartbeatResponse);
+}
+
+message TaskRequest {
+  string task_id = 1;
+  string payload = 2;
+}
+
+message TaskResponse {
+  string status = 1;
+}
+
+message HeartbeatRequest {
+  string node_id = 1;
+}
+
+message HeartbeatResponse {
+  string status = 1;
+}
