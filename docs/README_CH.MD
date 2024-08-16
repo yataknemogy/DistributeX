@@ -47,10 +47,4 @@ DistributeX 是一个高度可扩展的分布式计算平台，旨在跨多个�
 
 ## 阅读其他语言版本
 
-[EN](/README.md)
-[RU](README_RU.MD)  
-[FR](README_FR.MD)  
-[JP](README_JP.MD)  
-[DE](README_DE.MD)  
-[CH](README_CH.MD)  
-[KR](README_KR.MD)
+[EN](/README.md) | [RU](README_RU.MD) | [FR](README_FR.MD) | [JP](README_JP.MD) | [DE](README_DE.MD) | [CH](README_CH.MD) | [KR](README_KR.MD)

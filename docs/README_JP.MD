@@ -47,10 +47,4 @@ DistributeXは、複数のノードにわたって大規模な計算タスクを
 
 ## 他の言語で読む
 
-[EN](/README.md)
-[RU](README_RU.MD)  
-[FR](README_FR.MD)  
-[JP](README_JP.MD)  
-[DE](README_DE.MD)  
-[CH](README_CH.MD)  
-[KR](README_KR.MD)
+[EN](/README.md) | [RU](README_RU.MD) | [FR](README_FR.MD) | [JP](README_JP.MD) | [DE](README_DE.MD) | [CH](README_CH.MD) | [KR](README_KR.MD)

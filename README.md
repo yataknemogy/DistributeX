@@ -52,9 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Read in Other Languages
 
-[RU](docs/README_RU) 
-[FR](docs/README_FR.MD)  
-[JP](docs/README_JP.MD)  
-[DE](docs/README_DE.MD) 
-[CH](docs/README_CH.MD) 
-[KR](docs/README_KR.MD)
+[RU](docs/README_RU) | [FR](docs/README_FR) | [JP](docs/README_JP) | [DE](docs/README_DE) | [CH](docs/README_CH) | [KR](docs/README_KR)
